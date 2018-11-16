@@ -1,0 +1,12 @@
+name: nearde-android-platform
+version: 0.1.0
+
+plugins:
+  - App
+
+sources:
+  - src
+
+deps:
+  jphp-runtime: '*'
+  Nearde-SDK: '*'
